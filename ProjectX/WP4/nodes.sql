@@ -1,0 +1,1 @@
+SELECT p.id, p.name from Product p
